@@ -1,4 +1,4 @@
-=== Official Archon Testimonials ===
+=== Official Archon Membership Management ===
 Contributors: archonllc
 Tags: archon, membership, shortcode, content, paywall
 Requires at least: 3.0.1
